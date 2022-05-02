@@ -1,0 +1,23 @@
+{
+  "name": "node_websocket",
+  "version": "1.0.0",
+  "description": "웹 소켓 연습 리포지토리",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/yogoloper/node_WebSocket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogoloper/node_WebSocket/issues"
+  },
+  "homepage": "https://github.com/yogoloper/node_WebSocket#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "socket.io": "^4.5.0"
+  }
+}
